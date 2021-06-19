@@ -1,0 +1,21 @@
+.word-not-found-box {
+  background-color: #a3bcf9;
+  border: 2px black solid;
+  height: 30vh;
+  width: 90vw;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+
+.word-not-found-box-content {
+  margin: 20px 60px;
+}
+
+.word-not-found-box-header {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.word-not-found-box-body {
+  font-size: 28px;
+}

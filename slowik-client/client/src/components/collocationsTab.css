@@ -1,0 +1,97 @@
+.collocations-tab {
+  margin: 20px 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.collocations-header-wrapper {
+  margin: 20px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.collocations-header {
+  margin-top: 0px;
+  font-size: 36px;
+}
+
+.refresh-button {
+  margin: 0px 0px 0px 50px;
+  width: 124px;
+  height: 60px;
+  background-color: #576490;
+  border: solid black 1px;
+  color: white;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.44) 5px 5px 5px;
+}
+
+.refresh-button:hover {
+  box-shadow: rgba(0, 0, 0, 0.6) 5px 5px 5px;
+}
+
+.collocations-table {
+  text-align: left;
+  width: 40%;
+  height: 400px;
+}
+
+.data-presentation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.slider-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.slider-header {
+  margin: 5px 0px;
+  font-size: 24px;
+}
+
+.slider-value {
+  font-size: small;
+  margin: 0px 5px 0px 10px;
+}
+
+.slider-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.slider {
+  margin: 5px;
+  padding: 5px;
+}
+
+.checkbox-field {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.checkbox-header {
+  font-size: 16px;
+  margin: 5px;
+  margin-left: 0px;
+  padding: 6px;
+  padding-left: 2px;
+}
+
+.checkbox {
+  margin: 5px 0;
+  padding: 5px;
+  color: #576490;
+}

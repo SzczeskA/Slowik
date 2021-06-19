@@ -1,0 +1,23 @@
+.tab-nav {
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.tab-nav-item {
+  padding: 10px 30px;
+  background: #d1d2f9;
+  color: black;
+  text-decoration: none;
+  border-top: black solid 2px;
+  border-spacing: 0;
+  border-left: black solid 2px;
+  border-right: black solid 2px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.selected {
+  background: #a3bcf9;
+}

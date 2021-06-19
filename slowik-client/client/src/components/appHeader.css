@@ -1,0 +1,11 @@
+.app-header {
+  border-bottom: 3px solid black;
+  box-shadow: 5px black;
+  height: 15vh;
+  width: 100%;
+}
+
+.logo {
+  height: 80%;
+  margin: 10px auto 10px 10%;
+}

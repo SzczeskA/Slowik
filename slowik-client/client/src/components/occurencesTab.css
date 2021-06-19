@@ -1,0 +1,26 @@
+.occurences-tab {
+  margin: 20px 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.occurences-header {
+  margin-top: 0px;
+  font-size: 36px;
+}
+
+.occurences-table {
+  width: 40%;
+  height: 400px;
+}
+
+.total-occurences {
+  font-size: 30px;
+  margin: 10px 0px 60px 0px;
+}
+
+.data-presentation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

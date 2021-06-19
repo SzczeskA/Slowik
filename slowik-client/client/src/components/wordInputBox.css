@@ -1,0 +1,47 @@
+.word-input-box {
+  background-color: #a3bcf9;
+  border: 2px black solid;
+  height: 40vh;
+  width: 90vw;
+  margin: 40px auto;
+  border-radius: 10px;
+}
+
+.word-input-box-content {
+  margin: 0 60px;
+}
+
+.word-input-box-header-text {
+  margin: 15px 0px;
+  font-size: 36px;
+}
+
+.word-input-box-body-text {
+  margin: 15px 0px;
+  font-size: 20px;
+}
+
+.word-input-box-button {
+  background-color: #576490;
+  border: solid black 1px;
+  color: white;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.44) 5px 5px 5px;
+}
+
+.word-input-box-button:hover {
+  box-shadow: rgba(0, 0, 0, 0.6) 5px 5px 5px;
+}
+
+.word-input-box-error-div {
+  color: red;
+  font: 12px;
+  height: 20px;
+  margin: 5px 0px 15px 0px;
+}

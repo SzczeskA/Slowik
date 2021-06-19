@@ -1,0 +1,39 @@
+.header-text {
+  margin: 20px 60px 20px 60px;
+  font-size: 40px;
+}
+
+.body-text {
+  margin: 15px 60px;
+  font-size: 24px;
+}
+
+.id-input {
+  margin: 80px 60px 10px 60px;
+}
+
+.next-button {
+  background-color: #576490;
+  border: solid black 1px;
+  color: white;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 20px 60px;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.44) 5px 5px 5px;
+}
+
+.next-button:hover {
+  box-shadow: rgba(0, 0, 0, 0.6) 5px 5px 5px;
+}
+
+.error-div {
+  color: red;
+  font: 12px;
+  height: 20px;
+  margin: 0 0 60px 60px;
+}
